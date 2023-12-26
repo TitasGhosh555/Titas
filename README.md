@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Titas Ghosh</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Front-end web Developer from India</h3>
 
 
 
-- 🔭 I’m currently working on **my personal portfoli website**
+- 🔭 I’m currently working on **my personal portfolio website**
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
