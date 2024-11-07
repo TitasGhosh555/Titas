@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 📫 How to reach me **titasghosh.me@gmail.com**
+- 📫 How to reach me **the.titasghosh@gmail.com**
 
 
 
