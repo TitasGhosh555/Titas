@@ -1,4 +1,5 @@
-<img src="https://github.com/thetitasghosh/parallax-3d-letter/blob/master/public/Titas_3D_Letter.png" align="left" height="450" width="100%" />  
+<img src="https://github.com/thetitasghosh/parallax-3d-letter/blob/master/public/Titas_3D_Letter.png" align="left" height="250px" width="100%" style="object-fit: cover;" />
+ 
   
 
 # Hi! I’m Titas Ghosh, a software developer dedicated to tackling challenging problems and adding value to the growth and impact of any project I work on.  
