@@ -3,13 +3,8 @@
   
 
 # Hi! I’m Titas Ghosh, a software developer dedicated to tackling challenging problems and adding value to the growth and impact of any project I work on.  
-  
-### I'm mostly focused on Creative Frontend Development 
-#### React, React Native,React-three-fiber, React-three-drei, NextJS, NodeJS, TypeScript, PostgreSQL and SQLlite. 
-  
-
-<br/>  
-
+<h3 align="left">I'm mostly focused on Creative Frontend Development <br/>
+React, React Native,React-three-fiber, React-three-drei, NextJS, NodeJS, TypeScript, PostgreSQL and SQLlite.</h3>
 
 ## My Skill Set  
 <div align="left">  
@@ -23,4 +18,6 @@
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
+<br/>
+<p align="left"><h3>Currently Learning</h3>-> Backend, WebGL △ <br></p>
  
