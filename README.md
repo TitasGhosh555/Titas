@@ -4,8 +4,7 @@
 # Hi! I’m Titas Ghosh, a software developer dedicated to tackling challenging problems and adding value to the growth and impact of any project I work on.  
   
 ### I'm mostly focused on Creative Frontend Development 
-
-#### React, React Native,React-three-fiber, React-three-drei, NextJS, NodeJS, TypeScript, PostgreSQL and SQLlite  
+#### React, React Native,React-three-fiber, React-three-drei, NextJS, NodeJS, TypeScript, PostgreSQL and SQLlite. 
   
 
 <br/>  
