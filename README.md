@@ -1,4 +1,4 @@
-<img src="https://github.com/thetitasghosh/parallax-3d-letter/blob/master/public/Titas_3D_Letter.png" align="left" height="250px" width="100%" style="object-fit: cover;" />
+<img src="https://github.com/thetitasghosh/parallax-3d-letter/blob/master/public/github_cover.png" align="left" height="250px" width="100%" style="object-fit: cover;" />
  
   
 
